@@ -1,0 +1,16 @@
+#-----------------ITA----------------------#
+
+Obiettivo: far blinkare i due led a presenti su Udoo Key
+
+Materiale: udoo key, in alternativa si può usare un esp32 configurando in modo opportuno i led e il circuito a valle 
+
+File: blink_boot.py
+
+#-----------------ENG----------------------#
+
+
+Goal: Make the two LEDs on the UDOO KEY blink.
+
+Materials: UDOO KEY. Alternatively, an ESP32 can be used by properly configuring the LEDs and the downstream circuit.
+
+File: blink_boot.py
