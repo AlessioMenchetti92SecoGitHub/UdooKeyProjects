@@ -1,0 +1,19 @@
+#-----------------ITA----------------------#
+
+Obiettivo: accendere e spegnere un led di Udoo key creando un server e gestendo i tasti tramite pagina html
+
+Materiale: udoo key, in alternativa si può usare un esp32 configurando in modo opportuno i led e il circuito a valle 
+
+File: webServerUdoo programmato usando arduino ide
+
+Note: appena possibile sarà resa nota la versione micropython
+
+#-----------------ENG----------------------#
+
+Goal: Turn an LED on and off on the UDOO KEY by creating a server and controlling the buttons through an HTML page
+
+Materials: UDOO KEY. Alternatively, an ESP32 can be used by properly configuring the LEDs and the downstream circuit
+
+File: webServerUdoo programmed using Arduino IDE
+
+Note: The MicroPython version will be released as soon as possible
