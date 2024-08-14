@@ -1,3 +1,7 @@
+'''
+Version 0:
+-base funtionalities
+'''
 from machine import Pin, SPI
 import max7219
 from time import sleep
