@@ -15,6 +15,7 @@ POLARITY=0
 PHASE=0
 CS_PIN = 15
 BRIGHTNESS = 5
+
 # Configura SPI e il display ---- Configuration SPI and Display
 spi = SPI(CHANNEL_SPI, baudrate=BAUD_RATE, polarity=POLARITY, phase=PHASE)
 cs = Pin(CS_PIN, Pin.OUT)
