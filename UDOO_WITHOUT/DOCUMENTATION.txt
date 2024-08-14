@@ -1,0 +1,19 @@
+#-----------------ITA----------------------#
+
+Obiettivo: collegare un esp32 e un raspberry pi pico in modo che il primo venga comandato tramite browser e il secondo comandi i pin richiesti (5 in questa versione prettamente di test). Il progetto è una sorta di alternativa a Udoo key
+
+Materiale: esp32, Raspberry pi pico, 5 led con altrettante resistenze
+
+File: esp32_boot.py, pico_main.py, schematica e altra documentazione utile
+
+Note: la schematica dei pin non è precisa controllare i pin nel programma
+
+#-----------------ENG----------------------#
+
+Goal: Connect an ESP32 and a Raspberry Pi Pico so that the ESP32 is controlled via a browser and the Pico controls the requested pins (5 in this test version). The project serves as an alternative to the UDOO KEY
+
+Materials: ESP32, Raspberry Pi Pico, 5 LEDs with corresponding resistors
+
+Files: esp32_boot.py, pico_main.py, schematic, and other relevant documentation
+
+Note: The pin schematic is not precise; verify the pins in the program
