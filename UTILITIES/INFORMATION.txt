@@ -1,0 +1,12 @@
+#-----------------ITA----------------------#
+
+Questa cartella contiene del materiale utile alla configurazione della scheda e anche alla programmazione reperito da internet. Sono cose che qualsiasi utente può reperire su internet, pure più comprensibile in base alle proprie caratteristiche, tuttavia ritengo utile poter avere quanto più possibile per poter partire a programmare.
+
+Importante: RPI_PICO-20240602-v1.23.0.uf2 e flash_nuke.uf2 sono il firmware del pico per micropython e il file per resettarlo e rimettere tutto alle impostazioni di fabbrica. Tuttavia potete reperire i firmware nella pagina ufficiale https://micropython.org/download/
+
+#-----------------ENG----------------------#
+
+
+This folder contains useful material for configuring the board and programming, sourced from the internet. These are resources that any user can find online, possibly in a format more suited to their own needs. However, I consider it valuable to have as much material as possible to get started with programming.
+
+Important: RPI_PICO-20240602-v1.23.0.uf2 and flash_nuke.uf2 are the firmware files for the Pico for MicroPython and the file to reset it and restore factory settings. However, you can also find these firmware files on the official page: https://micropython.org/download/
