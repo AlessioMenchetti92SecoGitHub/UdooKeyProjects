@@ -1,0 +1,19 @@
+#-----------------ITA----------------------#
+
+Obiettivo: usare il modulo esp32 di Udoo key come server per comandare da browser alcuni led collegati al modulo raspberry pi pico (5 in questa versione prettamente di test)
+
+Materiale: Udoo key, 5 led con altrettante resistenze
+
+File: udoo_key_esp32_boot.py, udoo_key_pico_main.py, schematica e altra documentazione utile
+
+Note: la schematica dei pin e fatta usando il modulo rp2040 presente su kicad dato che non esiste udoo key
+
+#-----------------ENG----------------------#
+
+Goal: Use the ESP32 module on the UDOO KEY as a server to control some LEDs connected to the Raspberry Pi Pico module (5 LEDs in this test version) via a browser.
+
+Materials: UDOO KEY, 5 LEDs with corresponding resistors.
+
+Files: udoo_key_esp32_boot.py, udoo_key_pico_main.py, schematic, and other relevant documentation.
+
+Note: The pin schematic is created using the RP2040 module in KiCad, as there is no specific UDOO KEY module available.
