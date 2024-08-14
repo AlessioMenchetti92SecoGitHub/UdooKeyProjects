@@ -1,3 +1,8 @@
+'''
+Version 0:
+-Base funtionalities
+'''
+
 from machine import Pin, SPI
 import time
 
