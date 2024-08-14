@@ -4,7 +4,7 @@ Obiettivo: far comunicare due moduli esp32 di cui uno è Access Point e l'altro 
 
 Materiale: due udoo key, in alternativa si possono usare controllori esp32 dato che non viene usato il modulo rapberry pi pico della scheda
 
-File: AP_boot.py per l'access point, STA_boot.py per la station, PC_STA.py per utilizzare il proprio PC, che sia dotato di wifi, come station
+File: Per ogni cartella versione abbiamo AP_boot.py per l'access point, STA_boot.py per la station, PC_STA.py per utilizzare il proprio PC, che sia dotato di wifi, come station
 
 #-----------------ENG----------------------#
 
@@ -12,4 +12,4 @@ Goal: Establish communication between two ESP32 modules, where one functions as 
 
 Materials: Two UDOO KEY boards. Alternatively, ESP32 controllers can be used since the Raspberry Pi Pico module on the board is not required.
 
-Files: AP_boot.py for the access point, STA_boot.py for the station, PC_STA.py to use your PC, if equipped with Wi-Fi, as a station.
+Files: For all versions directories AP_boot.py for the access point, STA_boot.py for the station, PC_STA.py to use your PC, if equipped with Wi-Fi, as a station.
