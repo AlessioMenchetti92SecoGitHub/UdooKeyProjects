@@ -1,0 +1,15 @@
+#-----------------ITA----------------------#
+
+Descrizione cartella: la cartella contiene il comando di un modulo matrice led 8x8 max7219. Ci sono due sottocartelle ovvero una LIB dove i programmi usano la libreria micropython associata al modulo micropython-max7219, installabile in modo semplice tramite Thonny, e una NO_LIB che setta il modulo senza libreria. Su ogni cartella ci saranno varie versioni che espanderanno le funzioni possibili anche in modo da essere integrato in progetti più ampi.
+
+Materiale: sketch python e documentazione varia
+
+Occorrente per test: Udoo Key o raspberry pi pico oppure schede compatibili con micropython
+
+#-----------------ENG----------------------#
+
+Folder Description: The folder contains the command files for an 8x8 LED matrix module (MAX7219). There are two subfolders: one named LIB, where the programs use the MicroPython library associated with the module (micropython-max7219), which can be easily installed via Thonny, and another named NO_LIB, which configures the module without using the library. Each folder will have various versions that expand the possible functions, making it suitable for integration into larger projects.
+
+Materials: Python sketches and various documentation.
+
+Requirements for Testing: UDOO KEY, Raspberry Pi Pico, or other boards compatible with MicroPython.
