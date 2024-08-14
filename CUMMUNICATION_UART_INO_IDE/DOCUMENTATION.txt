@@ -1,0 +1,7 @@
+#-----------------ITA----------------------#
+
+Descrizione cartella: cartella con alcuni codici arduino preso da GitHub esterno di cui lascio per correttezza il link https://github.com/opivankristovi/udoo-key-arduino . Dentro la cartella si possono trovare varie references presenti per maggiori informazioni e ricerche
+
+#-----------------ENG----------------------#
+
+Folder Description: This folder contains some Arduino codes sourced from an external GitHub repository, for which I am providing the link for reference: https://github.com/opivankristovi/udoo-key-arduino. Inside the folder, you will find various references available for further information and research.
