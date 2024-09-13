@@ -1,0 +1,19 @@
+#-----------------ITA----------------------#
+
+Obiettivo: comandare via BLE il modulo esp32 di udoo key tramite gui facendo spegnere e accendere i due led presenti nella board
+
+Materiale: udoo key o modulo esp32 con due led da collegare
+
+File: bluetooh_communication_interface.py, boot_bluetooth_pico.py e BLE_scanner.py
+
+Note: la connesione avviene tramite mac address quindi è consigliabile usare il programma scanner per individuarlo
+
+#-----------------ENG----------------------#
+
+Objective: Control the ESP32 module of UDOO Key via BLE using a GUI to turn the two LEDs on and off on the board.
+
+Materials: UDOO Key or ESP32 module with two LEDs to connect.
+
+Files: bluetooth_communication_interface.py, boot_bluetooth_pico.py, and BLE_scanner.py
+
+Notes: The connection is made via MAC address, so it is recommended to use the scanner program to identify it.
