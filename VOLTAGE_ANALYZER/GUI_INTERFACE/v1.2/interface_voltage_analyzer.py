@@ -7,7 +7,7 @@ from bleak import BleakClient
 import threading
 
 # Inserisci qui l'indirizzo MAC del tuo dispositivo BLE
-DEVICE_MAC_ADDRESS = "8C:4B:14:CB:C6:5A"  # Cambia con l'indirizzo MAC del tuo dispositivo
+DEVICE_MAC_ADDRESS = "34:94:54:AD:DA:D2"  # Cambia con l'indirizzo MAC del tuo dispositivo
 
 # UUID della caratteristica BLE per inviare e ricevere comandi
 CHAR_UUID = "00002a19-0000-1000-8000-00805f9b34fb"
